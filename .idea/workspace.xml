@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="546cb081-1fff-4f1b-a483-e96a38675ed1" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="NioSocketServer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/socket/src/NioSocketServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="26" column="91" lean-forward="false" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NioSocketClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/socket/src/NioSocketClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/socket/src/NioSocketClient.java" />
+        <option value="$PROJECT_DIR$/socket/src/NioSocketServer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="socket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="socket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NioSocketServer">
+    <configuration default="false" name="NioSocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NioSocketServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="socket" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NioSocketClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NioSocketClient" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="socket" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sample" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.NioSocketServer" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NioSocketClient" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.NioSocketServer" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NioSocketClient" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="546cb081-1fff-4f1b-a483-e96a38675ed1" name="Default" comment="" />
+      <created>1523353485939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523353485939</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2164262" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955604" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/socket/src/NioSocketServer.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/socket/src/NioSocketServer.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/socket/src/NioSocketClient.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/socket/src/NioSocketClient.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0x64/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="57" column="36" lean-forward="true" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0x64/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="109" column="31" lean-forward="false" selection-start-line="109" selection-start-column="31" selection-end-line="109" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0x64/src.zip!/java/nio/channels/SelectionKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="215" column="0" lean-forward="true" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0x64/src.zip!/java/net/InetSocketAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="183" column="40" lean-forward="false" selection-start-line="183" selection-start-column="29" selection-end-line="183" selection-end-column="40" />
+          <folding>
+            <element signature="e#4750#4751#0" expanded="true" />
+            <element signature="e#4807#4808#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0x64/src.zip!/java/net/InetAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="1053" column="36" lean-forward="true" selection-start-line="1053" selection-start-column="36" selection-end-line="1053" selection-end-column="36" />
+          <folding>
+            <element signature="docComment;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;field#IPv4#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;field#IPv6#0;class#InetAddress#0" expanded="false" />
+            <element signature="class#InetAddressHolder#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#InetAddressHolder#1;class#InetAddressHolder#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#init#0;class#InetAddressHolder#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;field#address#0;class#InetAddressHolder#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;field#family#0;class#InetAddressHolder#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;field#serialVersionUID#0;class#InetAddress#0" expanded="false" />
+            <element signature="initializer##0;class#InetAddress#0" expanded="false" />
+            <element signature="class#9248:9436" expanded="false" />
+            <element signature="method#run#0;class#9248:9436" expanded="false" />
+            <element signature="docComment;method#InetAddress#0;class#InetAddress#0" expanded="false" />
+            <element signature="e#9740#9741#0" expanded="true" />
+            <element signature="e#9788#9789#0" expanded="true" />
+            <element signature="docComment;method#readResolve#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#readResolve#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#isMulticastAddress#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#isAnyLocalAddress#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#isLoopbackAddress#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#isLinkLocalAddress#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#isSiteLocalAddress#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#isMCGlobal#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#isMCNodeLocal#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#isMCLinkLocal#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#isMCSiteLocal#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#isMCOrgLocal#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#isReachable#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#isReachable#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#isReachable#1;class#InetAddress#0" expanded="false" />
+            <element signature="method#isReachable#1;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#getHostName#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#getHostName#1;class#InetAddress#0" expanded="false" />
+            <element signature="method#getHostName#1;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#getCanonicalHostName#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#getCanonicalHostName#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#getHostFromNameService#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#getHostFromNameService#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#getAddress#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#getHostAddress#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#toString#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;class#CacheEntry#0;class#InetAddress#0" expanded="false" />
+            <element signature="class#CacheEntry#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#CacheEntry#0;class#CacheEntry#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;class#Cache#0;class#InetAddress#0" expanded="false" />
+            <element signature="class#Cache#0;class#InetAddress#0" expanded="false" />
+            <element signature="class#Type#0;class#Cache#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#Cache#0;class#Cache#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#Cache#0;class#Cache#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#getPolicy#0;class#Cache#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#put#0;class#Cache#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#put#0;class#Cache#0;class#InetAddress#0" expanded="false" />
+            <element signature="e#27009#27051#0" expanded="false" />
+            <element signature="e#27691#27734#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#Cache#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#get#0;class#Cache#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#cacheInitIfNeeded#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#cacheAddresses#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#getCachedAddresses#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#createNSProvider#0;class#InetAddress#0" expanded="false" />
+            <element signature="class#31052:31452" expanded="false" />
+            <element signature="method#lookupAllHostAddr#0;class#31052:31452" expanded="false" />
+            <element signature="method#getHostByAddr#0;class#31052:31452" expanded="false" />
+            <element signature="class#31638:32883" expanded="false" />
+            <element signature="method#run#0;class#31638:32883" expanded="false" />
+            <element signature="initializer##1;class#InetAddress#0" expanded="false" />
+            <element signature="e#33757#33804#0" expanded="false" />
+            <element signature="docComment;method#getByAddress#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#getByAddress#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#getByName#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#getByName#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#getByName#1;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#getAllByName#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#getAllByName#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#getAllByName#1;class#InetAddress#0" expanded="false" />
+            <element signature="e#41039#41080#0" expanded="false" />
+            <element signature="docComment;method#getLoopbackAddress#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#checkNumericZone#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#checkNumericZone#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#getAllByName0#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#getAllByName0#1;class#InetAddress#0" expanded="false" />
+            <element signature="method#getAllByName0#1;class#InetAddress#0" expanded="false" />
+            <element signature="method#getAllByName0#2;class#InetAddress#0" expanded="false" />
+            <element signature="method#getAddressesFromNameService#0;class#InetAddress#0" expanded="false" />
+            <element signature="e#45621#45669#0" expanded="false" />
+            <element signature="e#46691#46747#0" expanded="false" />
+            <element signature="e#49023#49069#0" expanded="false" />
+            <element signature="method#checkLookupTable#0;class#InetAddress#0" expanded="false" />
+            <element signature="e#49351#49405#0" expanded="false" />
+            <element signature="e#49657#49716#0" expanded="false" />
+            <element signature="e#50044#50104#0" expanded="false" />
+            <element signature="method#updateLookupTable#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#getByAddress#1;class#InetAddress#0" expanded="false" />
+            <element signature="method#getByAddress#1;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;method#getLocalHost#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#getLocalHost#0;class#InetAddress#0" expanded="false" />
+            <element signature="e#53497#53551#0" expanded="false" />
+            <element signature="docComment;method#init#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#loadImpl#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#readObjectNoData#0;class#InetAddress#0" expanded="false" />
+            <element signature="initializer##2;class#InetAddress#0" expanded="false" />
+            <element signature="method#readObject#0;class#InetAddress#0" expanded="false" />
+            <element signature="docComment;field#serialPersistentFields#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#writeObject#0;class#InetAddress#0" expanded="false" />
+            <element signature="method#create#0;class#InetAddressImplFactory#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0x64/src.zip!/java/net/Inet4Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="85" column="36" lean-forward="false" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
+          <folding>
+            <element signature="docComment;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;field#serialVersionUID#0;class#Inet4Address#0" expanded="false" />
+            <element signature="initializer##0;class#Inet4Address#0" expanded="false" />
+            <element signature="method#Inet4Address#2;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#writeReplace#0;class#Inet4Address#0" expanded="false" />
+            <element signature="method#writeReplace#0;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#isMulticastAddress#0;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#isAnyLocalAddress#0;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#isLoopbackAddress#0;class#Inet4Address#0" expanded="false" />
+            <element signature="method#isLoopbackAddress#0;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#isLinkLocalAddress#0;class#Inet4Address#0" expanded="false" />
+            <element signature="method#isLinkLocalAddress#0;class#Inet4Address#0" expanded="false" />
+            <element signature="e#6116#6162#0" expanded="false" />
+            <element signature="docComment;method#isSiteLocalAddress#0;class#Inet4Address#0" expanded="false" />
+            <element signature="method#isSiteLocalAddress#0;class#Inet4Address#0" expanded="false" />
+            <element signature="e#6803#6823#0" expanded="false" />
+            <element signature="docComment;method#isMCGlobal#0;class#Inet4Address#0" expanded="false" />
+            <element signature="method#isMCGlobal#0;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#isMCNodeLocal#0;class#Inet4Address#0" expanded="false" />
+            <element signature="method#isMCNodeLocal#0;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#isMCLinkLocal#0;class#Inet4Address#0" expanded="false" />
+            <element signature="method#isMCLinkLocal#0;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#isMCSiteLocal#0;class#Inet4Address#0" expanded="false" />
+            <element signature="method#isMCSiteLocal#0;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#isMCOrgLocal#0;class#Inet4Address#0" expanded="false" />
+            <element signature="method#isMCOrgLocal#0;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#getAddress#0;class#Inet4Address#0" expanded="false" />
+            <element signature="method#getAddress#0;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#getHostAddress#0;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#Inet4Address#0" expanded="false" />
+            <element signature="method#equals#0;class#Inet4Address#0" expanded="false" />
+            <element signature="method#numericToTextFormat#0;class#Inet4Address#0" expanded="false" />
+            <element signature="docComment;method#init#0;class#Inet4Address#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/src/NioSocketClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/src/NioSocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="26" column="91" lean-forward="false" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>socket</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
