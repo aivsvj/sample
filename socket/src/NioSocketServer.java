@@ -2,6 +2,7 @@ import java.io.IOException;
 import java.net.Inet4Address;
 import java.net.InetAddress;
 import java.net.InetSocketAddress;
+import java.net.UnknownHostException;
 import java.nio.ByteBuffer;
 import java.nio.channels.SelectionKey;
 import java.nio.channels.Selector;
@@ -16,7 +17,22 @@ public class NioSocketServer {
 
     start();
 //    System.out.println(1 << 2);
+/*
+    try {
+//      InetAddress inetAddress = InetAddress.getByName("192.168.91.137");
+      InetAddress inetAddress = InetAddress.getByName("localhost");
+      System.out.println(inetAddress.getHostAddress());
+      System.out.println(inetAddress.getAddress());
+      System.out.println(inetAddress.isReachable(5000));
+    } catch (UnknownHostException e) {
+      e.printStackTrace();
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+*/
+
   }
+
   static void start() {
 
     int port = 1694;
@@ -24,13 +40,14 @@ public class NioSocketServer {
     ServerSocketChannel ssc;
     try {
       ssc = ServerSocketChannel.open();
-      ssc.socket().bind(new InetSocketAddress(InetAddress.getByAddress(new byte[]{(byte) 192,168,91,137}),port));
+      ssc.socket().bind(new InetSocketAddress(InetAddress.getByName("192.168.91.137"), port));
       ssc.configureBlocking(false);
       Selector selector = Selector.open();
       ssc.register(selector, SelectionKey.OP_ACCEPT);
 
       System.out.println("ssc: " + ssc);
-      while (0 < selector.select()) {
+      while (true) {
+        selector.select();
         Set<SelectionKey> keySet = selector.selectedKeys();
 
         Iterator<SelectionKey> iterator = keySet.iterator();
@@ -54,20 +71,17 @@ public class NioSocketServer {
             System.out.print("port: " + sc.socket().getPort());
             System.out.print("Thread: " + Thread.currentThread());
             buffer.clear();
-            while (-1 != sc.read(buffer)) {
+            while (0 < sc.read(buffer)) {
               buffer.flip();
               sc.write(buffer);
               buffer.clear();
             }
-            iterator.remove();
           }
         }
       }
 
-    } catch(IOException e){
+    } catch (IOException e) {
       e.printStackTrace();
     }
   }
-
-
 }
